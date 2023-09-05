@@ -1,5 +1,6 @@
-### Hi there 👋
-
+Hi~
+I am Antonio, an ordinary college student who yearns for freedom
+I am currently studying computer vision and deep learning
 <!--
 **windnomore/windnomore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
